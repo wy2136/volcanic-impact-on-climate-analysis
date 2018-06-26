@@ -1,3 +1,8 @@
+# misc
+cache/
+OLD/
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -102,7 +107,3 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-
-# misc
-cache/
-OLD/
